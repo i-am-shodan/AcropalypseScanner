@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AcropalypseScanner": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\"
+    }
+  }
+}
