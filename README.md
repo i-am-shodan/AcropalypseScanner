@@ -6,7 +6,7 @@ A fast scanning tool for examining PNG files for signs of the acropalypse vulner
 ## Usage
 
 ```
-dotnet run "YOUDIR"
+dotnet run "YOURDIR"
 ```
 
 ## Sample output
