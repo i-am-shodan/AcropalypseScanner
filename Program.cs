@@ -26,6 +26,7 @@ namespace AcropalypseScanner
                 Console.CursorLeft = 0;
                 Console.Write("Files processed: " + NumberOfFilesProcessed + " / " + files.Count());  
             }
+            Console.WriteLine();
             Console.WriteLine("All files processed");
 
             foreach (var msg in results)
